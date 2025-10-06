@@ -43,7 +43,7 @@ layers:
   - {t: '$$mdi:keyboard-space$$', h: MOUSE}
   - {t: '$$mdi:keyboard-tab$$', h: SCROLL}
   - {t: '$$mdi:keyboard-return$$', type: enter}
-  - {t: F12, h: SYM}
+  - {t: '$$mdi:keyboard-return$$', h: SYM}
   - $$mdi:backspace-reverse-outline$$
   NUM:
   - {t: '$$mdi:minus-circle-outline$$', type: none}
