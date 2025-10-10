@@ -315,9 +315,3 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
-combos:
-- p: [14, 15]
-  k: Ctl+C
-  l: [QWRT]
-- p: [16, 15]
-  k: Ctl+V
