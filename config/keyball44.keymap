@@ -50,6 +50,21 @@
         };
     };
 
+    combos {
+        compatible = "zmk,combos";
+
+        jccc {
+            bindings = <&kp LC(C)>;
+            key-positions = <14 15>;
+            layers = <0>;
+        };
+
+        cvvv {
+            bindings = <&kp LC(V)>;
+            key-positions = <16 15>;
+        };
+    };
+
     keymap {
         compatible = "zmk,keymap";
 
